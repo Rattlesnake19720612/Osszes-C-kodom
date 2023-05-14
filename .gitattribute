@@ -1,0 +1,3 @@
+*.pdf diff=astextplain
+*.docx diff=astextplain
+*.doc diff=astextplain
